@@ -1,2 +1,4 @@
 # hello-world
-4 test
+Hi all!
+
+I'm just beginner
